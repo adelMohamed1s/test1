@@ -215,6 +215,11 @@ Name: LoveCanyon(NewArea)
 Path: map/map/newcanyon.7z
 TileSize: 256
 -------------------
+ID: 10366
+Name: LoveCanyon(NewArea)
+Path: map/map/newcanyon.7z
+TileSize: 256
+-------------------
 ID: 1077
 Name: DesertCity(NewArea)
 Path: map/map/newdesert.7z
