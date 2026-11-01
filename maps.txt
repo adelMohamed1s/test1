@@ -90,6 +90,11 @@ Name: Canyon
 Path: map/map/canyon.7z
 TileSize: 256
 -------------------
+ID: 10366
+Name: Canyon
+Path: map/map/canyon.7z
+TileSize: 256
+-------------------
 ID: 1021
 Name: Unknown
 Path: map/map/mine.7z
