@@ -15,6 +15,11 @@ Name: Desert
 Path: map/map/desert.7z
 TileSize: 256
 -------------------
+ID: 10367
+Name: Desert
+Path: map/map/desert.7z
+TileSize: 256
+-------------------
 ID: 1001
 Name: Unknown
 Path: map/map/d_antre01.7z
